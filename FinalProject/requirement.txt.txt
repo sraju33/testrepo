@@ -19,7 +19,7 @@ MarkupSafe==1.1.0
 matplotlib==3.0.2
 numpy==1.15.4
 packaging==18.0
-Pygments==2.3.1
+Pygments==2.7.4
 pylablib==0.3.0
 pyparsing==2.3.1
 python-dateutil==2.7.5
